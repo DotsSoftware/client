@@ -1,6 +1,6 @@
 {
-    "name": "dots_desktop",
-    "short_name": "dots_desktop",
+    "name": "client_webapp",
+    "short_name": "client_webapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
